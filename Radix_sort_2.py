@@ -2,7 +2,7 @@ def countingSort(arr, exp1):
     n = len(arr)
 
     # The output array elements that will have sorted arr
-    output = [0] * 👎
+    output = [0] * n
 
     # initialize count array as 0
     count = [0] * (10)
